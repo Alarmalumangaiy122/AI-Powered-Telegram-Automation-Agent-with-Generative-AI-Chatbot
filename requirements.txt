@@ -1,0 +1,17 @@
+streamlit
+groq
+python-telegram-bot
+python-dotenv
+apscheduler
+pytz
+PyPDF2
+openai-whisper
+gtts
+streamlit-audiorecorder
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+openpyxl
+pyttsx3
